@@ -1,3 +1,6 @@
 hello everyone I am Thanusha
 Nice to meet you
+<<<<<<< HEAD
 welcome
+=======
+>>>>>>> my-first-branch
